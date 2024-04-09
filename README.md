@@ -3,7 +3,7 @@
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
 I Study **Computer Science** , learn  and apply on **EVERYTHING**
-* 💖 current part of مبادرة رواد مصر الرقميه
+* 💖   currently part of مبادرة رواد مصر الرقميه
 * 🧐   Interested in Machine Machine learning.
 * 🏋‍♀   Used to be an ITI Trainee
 * 🌱   Currently learning Python, Machine learning, Git, Math & Algorithms.
