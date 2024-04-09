@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**RahmaIbrahimm/RahmaIbrahimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-Here are some ideas to get you started:
+I Study **Computer Science** , learn  and apply on **EVERYTHING**
+* 💖 current part of مبادرة رواد مصر الرقميه
+* 🧐   Interested in Machine Machine learning.
+* 🏋‍♀   Used to be an ITI Trainee
+* 🌱   Currently learning Python, Machine learning, Git, Math & Algorithms.
+* 📚   Reading 《Grokking Algorithms.》.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>Some other achievements about me~e~e</summary>
+  <br>
+
+* 💝   Be proud of Stanford. 🧸 Proud Stanford Cardinal. Die Luft der Freiheit weht. 
+* 💖   Fifth place at Nasa Space Apps local Compitition 
+* 🎉   Professional Membership of IEEE
+  ## courses  
+*   Stanford Machine learning Specialization  :)
+*   Github course at Al-Madrasa
+*   Toronto Universiy Python Programming Fundementals
+*   ITI Java Development 
+
+ 
