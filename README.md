@@ -13,7 +13,6 @@ I Study **Computer Science** , learn  and apply on **EVERYTHING**
   <summary>Some other achievements about me~e~e</summary>
   <br>
 
-* 💝   Be proud of Stanford. 🧸 Proud Stanford Cardinal. Die Luft der Freiheit weht. 
 * 💖   Fifth place at Nasa Space Apps local Compitition 
 * 🎉   Professional Membership of IEEE
   ## courses  
