@@ -19,6 +19,5 @@ I Study **Computer Science** , learn  and apply on **EVERYTHING**
 *   Stanford Machine learning Specialization  :)
 *   Github course at Al-Madrasa
 *   Toronto Universiy Python Programming Fundementals
-*   ITI Java Development 
 
  
