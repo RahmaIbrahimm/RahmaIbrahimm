@@ -4,7 +4,7 @@
 
 I Study **Computer Science** , learn  and apply on **EVERYTHING**
 * 💖   currently part of مبادرة رواد مصر الرقميه
-* 🧐   Interested in Machine Machine learning.
+* 🧐   Interested in Machine learning.
 * 🏋‍♀   Used to be an ITI Trainee
 * 🌱   Currently learning Python, Machine learning, Git, Math & Algorithms.
 * 📚   Reading 《Grokking Algorithms.》.
